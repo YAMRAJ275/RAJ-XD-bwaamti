@@ -52,6 +52,9 @@
     "diemdanh": {
         "cooldownTime": 3000000
     },
+    "diptoApi": {
+        "API_KEY": "free"
+    },
     "gif": {
         "TENOR": "73YIAOY3ACT1"
     },
